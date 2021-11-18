@@ -1,6 +1,6 @@
 ### 1.3b
 
-- Set side panel name to Smarteye
+- Fork and set side panel name to Smarteye
 
 ### 1.3
 
