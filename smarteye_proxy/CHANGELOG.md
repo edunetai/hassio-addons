@@ -1,9 +1,11 @@
 ### 1.3b
 
 - Set side panel name to Smarteye
+
 ### 1.3
 
 - Set side panel name to Frigate
+
 ### 1.2
 
 - Switch to debian base

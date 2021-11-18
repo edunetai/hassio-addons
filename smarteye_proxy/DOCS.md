@@ -6,7 +6,7 @@ Note that this addon does not run Smarteye itself.
 
 ### Option: `server`
 
-The `server` option sets the address of the Frigate server.
+The `server` option sets the address of the Smarteye server.
 
 This must be in the format `host:port`. The following are valid examples:
 

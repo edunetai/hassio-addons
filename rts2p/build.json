@@ -1,0 +1,8 @@
+{
+  "build_from": {
+    "armhf": "edunetai/rts2p:rpi",
+    "armv7": "edunetai/rts2p:rpi",
+    "aarch64": "edunetai/rts2p:aarch64",
+    "amd64": "edunetai/rts2p:amd64"
+  }
+}
