@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Smarteye NVR Server
+# EDUNet dashboard Add-on: Smarteye NVR Server
 
 Please reference the [release notes](https://github.com/edunetai/smarteye/releases) for breaking changes.
 
