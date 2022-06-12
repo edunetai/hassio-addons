@@ -1,11 +1,11 @@
 {
-  "name": "Smarteye NVR Server",
+  "name": "Smarteyes NVR Server",
   "version": "2.3",
   "panel_icon": "mdi:cctv",
-  "panel_title": "Smarteye",
+  "panel_title": "Smarteyes",
   "slug": "smarteye",
   "description": "NVR with realtime local object detection for IP cameras",
-  "url": "https://github.com/edunetai/smarteye",
+  "url": "https://github.com/edunetai/smarteyes",
   "startup": "application",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:5000]/",
@@ -36,7 +36,7 @@
   "tmpfs": true,
   "full_access": true,
   "environment": {
-    "CONFIG_FILE": "/config/smarteye.yml"
+    "CONFIG_FILE": "/config/smarteyes.yml"
   },
   "options": {},
   "schema": {},
