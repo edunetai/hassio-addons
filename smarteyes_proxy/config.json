@@ -1,11 +1,11 @@
 {
-  "name": "Smarteye NVR Proxy",
+  "name": "Smarteyes NVR Proxy",
   "version": "1.3",
   "panel_icon": "mdi:cctv",
-  "panel_title": "Smarteye",
-  "slug": "smarteye-proxy",
-  "description": "Proxy addon for Smarteye",
-  "url": "https://github.com/edunetai/smarteye",
+  "panel_title": "Smarteyes",
+  "slug": "smarteyes-proxy",
+  "description": "Proxy addon for Smarteyes",
+  "url": "https://github.com/edunetai/smarteyes",
   "startup": "application",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:5000]/",
@@ -27,7 +27,7 @@
   "full_access": false,
   "environment": {},
   "options": {
-    "server": "smarteye.local:5000"
+    "server": "smarteyes.local:5000"
   },
   "schema": {
     "server": "match(^.+:\\d+$)"
