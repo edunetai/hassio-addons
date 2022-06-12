@@ -1,8 +1,8 @@
-# EDUNet dashboard Add-on: Smarteye NVR Proxy
+# EDUNet dashboard Add-on: Smarteyes NVR Proxy
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
-This addon creates a proxy to a Smarteye server run separately from Home Assistant so that you can have the benefit of access in the sidebar without running Smarteye as an addon.
+This addon creates a proxy to a Smarteyes server run separately from Home Assistant so that you can have the benefit of access in the sidebar without running Smarteyes as an addon.
 
 Note that this addon does not run Smarteye itself.
 
