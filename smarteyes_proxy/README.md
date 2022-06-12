@@ -4,7 +4,7 @@
 
 This addon creates a proxy to a Smarteyes server run separately from Home Assistant so that you can have the benefit of access in the sidebar without running Smarteyes as an addon.
 
-Note that this addon does not run Smarteye itself.
+Note that this addon does not run Smarteyes itself.
 
 [Smarteye]: https://github.com/edunetai/smarteye
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
