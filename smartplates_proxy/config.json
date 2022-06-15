@@ -1,19 +1,19 @@
 {
-  "name": "Smartfaces Proxy",
+  "name": "Smartplates Proxy",
   "version": "1.0.0",
-  "url": "https://github.com/edunetai/smartfaces",
-  "panel_icon": "mdi:face-recognition",
-  "panel_title": "Smartfaces", 
-  "slug": "smartfaces-proxy",
-  "description": "Edunet's unified GUI and API for processing and training images for facial recognition",
+  "url": "https://github.com/edunetai/smartplates",
+  "panel_icon": "mdi:car-back",
+  "panel_title": "Smartplates", 
+  "slug": "smartplates-proxy",
+  "description": "Edunet's unified GUI and API for processing and training images for license plates recognition",
   "arch": ["aarch64", "amd64", "armhf", "armv7", "i386"],
   "startup": "application",
   "boot": "auto",
   "ingress": true,
-  "ingress_port": 3000,
+  "ingress_port": 6000,
   "panel_admin": false,
   "options": {
-    "server": "smartfaces.local:3000"
+    "server": "smartplates.local:6000"
   },
   "schema": {
     "server": "match(^.+:\\d+$)"

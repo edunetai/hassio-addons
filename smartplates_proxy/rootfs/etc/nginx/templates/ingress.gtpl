@@ -1,10 +1,10 @@
 server {
-    listen 3000 default_server;
+    listen 6000 default_server;
 
     include /etc/nginx/includes/server_params.conf;
 
     location / {
-        allow   172.30.32.2;
+        allow   172.30.32.12;
         deny    all;
 
         proxy_pass http://backend;
