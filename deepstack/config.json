@@ -7,6 +7,7 @@
   "arch": ["amd64", "armv7", "aarch64"],
   "startup": "application",
   "boot": "auto",
+  "devices": ["/dev/dri:/dev/dri:rwm", "/dev/bus/usb:/dev/bus/usb:rwm", "/dev/ttyAMA0:/dev/ttyAMA0:rwm"],
   "ports": {
     "5000/tcp": 5001
   },
