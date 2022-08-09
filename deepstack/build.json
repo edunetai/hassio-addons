@@ -1,6 +1,6 @@
 {
   "build_from": {
-    "amd64": "deepquestai/deepstack:latest",
+    "amd64": "deepquestai/deepstack:gpu",
     "aarch64": "deepquestai/deepstack:arm64",
     "armv7": "deepquestai/deepstack:arm64"
   }
