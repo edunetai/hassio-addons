@@ -1,6 +1,6 @@
 {
   "name": "DeepStack",
-  "version": "2021.09.1",
+  "version": "2022.01.1",
   "url": "https://github.com/johnolafenwa/DeepStack",
   "slug": "deepstack",
   "description": "The World's Leading Cross Platform AI Engine for Edge Devices",
@@ -15,6 +15,7 @@
   },
   "environment": {
     "VISION-FACE": "True",
+    "MODE": "High",
     "VISION-DETECTION": "True"
   }
 }
